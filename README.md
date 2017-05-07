@@ -1,1 +1,2 @@
-# Ubuntu-Programming-Concepts-with-JavaScripthHello this contains the JavaSCrip Examples from the Course Ubuntu Programming Concepts with JavaScript
+# Ubuntu-Programming-Concepts-with-JavaScripthHello 
+This contains the JavaScript Examples from the Course Ubuntu Programming Concepts with JavaScript
